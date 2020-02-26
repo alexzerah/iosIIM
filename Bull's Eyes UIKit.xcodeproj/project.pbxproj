@@ -15,6 +15,7 @@
 		20FEE95424066DC200CFC331 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 20FEE95224066DC200CFC331 /* LaunchScreen.storyboard */; };
 		20FEE95F24066DC300CFC331 /* Bull_s_Eyes_UIKitTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20FEE95E24066DC300CFC331 /* Bull_s_Eyes_UIKitTests.swift */; };
 		20FEE96A24066DC300CFC331 /* Bull_s_Eyes_UIKitUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20FEE96924066DC300CFC331 /* Bull_s_Eyes_UIKitUITests.swift */; };
+		20FEE9782406B85700CFC331 /* AboutViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20FEE9772406B85700CFC331 /* AboutViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		20FEE96524066DC300CFC331 /* Bull's Eyes UIKitUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Bull's Eyes UIKitUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		20FEE96924066DC300CFC331 /* Bull_s_Eyes_UIKitUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bull_s_Eyes_UIKitUITests.swift; sourceTree = "<group>"; };
 		20FEE96B24066DC300CFC331 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		20FEE9772406B85700CFC331 /* AboutViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				20FEE94924066DC100CFC331 /* SceneDelegate.swift */,
 				20FEE94B24066DC100CFC331 /* ViewController.swift */,
 				20FEE94D24066DC100CFC331 /* Main.storyboard */,
+				20FEE9772406B85700CFC331 /* AboutViewController.swift */,
 				20FEE95024066DC200CFC331 /* Assets.xcassets */,
 				20FEE95224066DC200CFC331 /* LaunchScreen.storyboard */,
 				20FEE95524066DC200CFC331 /* Info.plist */,
@@ -261,6 +264,7 @@
 			files = (
 				20FEE94C24066DC100CFC331 /* ViewController.swift in Sources */,
 				20FEE94824066DC100CFC331 /* AppDelegate.swift in Sources */,
+				20FEE9782406B85700CFC331 /* AboutViewController.swift in Sources */,
 				20FEE94A24066DC100CFC331 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
